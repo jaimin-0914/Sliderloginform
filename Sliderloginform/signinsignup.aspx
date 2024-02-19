@@ -24,6 +24,7 @@
             <div class="form signinForm">
                 <form>
                     <h3>Sign In</h3>
+                    <h3>Sign In</h3>
                     <input type="text" placeholder="UserName">
                     <input type="password" placeholder="password">
                     <input type="submit" value="Login">
